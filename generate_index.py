@@ -29,7 +29,6 @@ dirs.remove('.vscode')
 dirs.remove('.git')
 dirs = list(filter(os.path.isdir, dirs))
 dirs = sorted(dirs)
-print(dirs)
 
 contents = '# LeetCode\n'
 for d in dirs:
@@ -43,14 +42,27 @@ for d in dirs:
         files = os.listdir(os.path.join(d, sd))
         for f in files:
             if f.endswith('.py'):
-                solution_id = int(f.split('.')[0])
+                solution_id = f.split('.')[0]
+                important = False
+                if solution_id.endswith('*'):
+                    important = True
+                    solution_id = solution_id[:-1]
+                solution_id = int(solution_id)
+
                 for (question_id, question_slug, question_title) in questions:
                     if question_id == solution_id:
-                        contents += '| Question {} |  [{}]({}) | [{}]({}) \n'.format(
-                            question_id, question_title,
-                            'https://leetcode-cn.com/problems/{}'.format(
-                                question_slug), os.path.join(d, sd, f),
-                            os.path.join(d, sd, f))
+                        if not important:
+                            contents += '| Question {} |  [{}]({}) | [{}]({}) \n'.format(
+                                question_id, question_title,
+                                'https://leetcode-cn.com/problems/{}'.format(
+                                    question_slug), os.path.join(d, sd, f),
+                                os.path.join(d, sd, f))
+                        else:
+                            contents += '| **Question {}** |  [{}]({}) | [{}]({}) \n'.format(
+                                question_id, question_title,
+                                'https://leetcode-cn.com/problems/{}'.format(
+                                    question_slug), os.path.join(d, sd, f),
+                                os.path.join(d, sd, f))
 
 with open('README.md', mode='w') as f:
     f.write(contents)
