@@ -35,7 +35,6 @@ for d in dirs:
     contents += '## {}\n'.format(d)
     subdirs = sorted(os.listdir(os.path.join('.', d)))
     for sd in subdirs:
-        contents += '--- \n'
         contents += '### {}\n'.format(sd.replace('_', ' ').capitalize())
         contents += '| Questoin ID | LeetCode Address | Solution |\n'
         contents += '| ---- | ---- | ---- |\n'
