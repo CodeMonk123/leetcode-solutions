@@ -7,6 +7,7 @@
 | Question 34 |  [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [array/binary_search/34.py](array/binary_search/34.py) 
 | Question 69 |  [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx) | [array/binary_search/69.py](array/binary_search/69.py) 
 | Question 367 |  [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square) | [array/binary_search/367.py](array/binary_search/367.py) 
+| **Question 4** |  [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [array/binary_search/4*.py](array/binary_search/4*.py) 
 | Question 704 |  [Binary Search](https://leetcode-cn.com/problems/binary-search) | [array/binary_search/704.py](array/binary_search/704.py) 
 ### Remove element
 | Questoin ID | LeetCode Address | Solution |
@@ -32,7 +33,12 @@
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | Question 383 |  [Ransom Note](https://leetcode-cn.com/problems/ransom-note) | [hash/basic/383.py](hash/basic/383.py) 
+| Question 350 |  [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [hash/basic/350.py](hash/basic/350.py) 
+| Question 202 |  [Happy Number](https://leetcode-cn.com/problems/happy-number) | [hash/basic/202.py](hash/basic/202.py) 
+| Question 1 |  [Two Sum](https://leetcode-cn.com/problems/two-sum) | [hash/basic/1.py](hash/basic/1.py) 
 | Question 242 |  [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram) | [hash/basic/242.py](hash/basic/242.py) 
+| **Question 454** |  [4Sum II](https://leetcode-cn.com/problems/4sum-ii) | [hash/basic/454*.py](hash/basic/454*.py) 
+| Question 349 |  [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays) | [hash/basic/349.py](hash/basic/349.py) 
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
