@@ -32,12 +32,14 @@
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
+| Question 15 |  [3Sum](https://leetcode-cn.com/problems/3sum) | [hash/basic/15.py](hash/basic/15.py) 
 | Question 383 |  [Ransom Note](https://leetcode-cn.com/problems/ransom-note) | [hash/basic/383.py](hash/basic/383.py) 
 | Question 350 |  [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [hash/basic/350.py](hash/basic/350.py) 
 | Question 202 |  [Happy Number](https://leetcode-cn.com/problems/happy-number) | [hash/basic/202.py](hash/basic/202.py) 
 | Question 1 |  [Two Sum](https://leetcode-cn.com/problems/two-sum) | [hash/basic/1.py](hash/basic/1.py) 
 | Question 242 |  [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram) | [hash/basic/242.py](hash/basic/242.py) 
 | **Question 454** |  [4Sum II](https://leetcode-cn.com/problems/4sum-ii) | [hash/basic/454*.py](hash/basic/454*.py) 
+| Question 18 |  [4Sum](https://leetcode-cn.com/problems/4sum) | [hash/basic/18.py](hash/basic/18.py) 
 | Question 349 |  [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays) | [hash/basic/349.py](hash/basic/349.py) 
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
@@ -54,3 +56,12 @@
 | Question 203 |  [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements) | [link_list/basic/203.py](link_list/basic/203.py) 
 | **Question 19** |  [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | [link_list/basic/19*.py](link_list/basic/19*.py) 
 | **Question 142** |  [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [link_list/basic/142*.py](link_list/basic/142*.py) 
+## strings
+### Basic
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 344 |  [Reverse String](https://leetcode-cn.com/problems/reverse-string) | [strings/basic/344.py](strings/basic/344.py) 
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 151 |  [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string) | [strings/hard/151.py](strings/hard/151.py) 
