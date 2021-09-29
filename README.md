@@ -56,6 +56,19 @@
 | Question 203 |  [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements) | [link_list/basic/203.py](link_list/basic/203.py) 
 | **Question 19** |  [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | [link_list/basic/19*.py](link_list/basic/19*.py) 
 | **Question 142** |  [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [link_list/basic/142*.py](link_list/basic/142*.py) 
+## stack_queue
+### Basic
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 20 |  [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses) | [stack_queue/basic/20.py](stack_queue/basic/20.py) 
+| Question 1047 |  [Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | [stack_queue/basic/1047.py](stack_queue/basic/1047.py) 
+| Question 225 |  [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues) | [stack_queue/basic/225.py](stack_queue/basic/225.py) 
+| Question 232 |  [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [stack_queue/basic/232.py](stack_queue/basic/232.py) 
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| **Question 239** |  [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum) | [stack_queue/hard/239*.py](stack_queue/hard/239*.py) 
+| Question 150 |  [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | [stack_queue/hard/150.py](stack_queue/hard/150.py) 
 ## strings
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
@@ -64,4 +77,5 @@
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
+| **Question 28** |  [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) | [strings/hard/28*.py](strings/hard/28*.py) 
 | Question 151 |  [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string) | [strings/hard/151.py](strings/hard/151.py) 

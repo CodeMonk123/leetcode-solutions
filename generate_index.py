@@ -1,17 +1,14 @@
-import requests, json
-
-session = requests.Session()
-user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
+import subprocess
+import os
+import json
 
 
 def get_questions():
     url = "https://leetcode.com/api/problems/all/"
 
-    headers = {'User-Agent': user_agent, 'Connection': 'keep-alive'}
-    resp = session.get(url, headers=headers, timeout=10)
+    raw = subprocess.check_output(['curl', url])
 
-    question_list = json.loads(
-        resp.content.decode('utf-8'))["stat_status_pairs"]
+    question_list = json.loads(raw)["stat_status_pairs"]
 
     def extract(question):
         return question['stat']['frontend_question_id'], question['stat'][
