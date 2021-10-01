@@ -28,6 +28,15 @@
 | **Question 76** |  [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring) | [array/slide_window/76*.py](array/slide_window/76*.py) 
 | **Question 904** |  [Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets) | [array/slide_window/904*.py](array/slide_window/904*.py) 
 | **Question 209** |  [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | [array/slide_window/209*.py](array/slide_window/209*.py) 
+## binary_tree
+### Basic
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 589 |  [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [binary_tree/basic/589.py](binary_tree/basic/589.py) 
+| Question 226 |  [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree) | [binary_tree/basic/226.py](binary_tree/basic/226.py) 
+| Question 101 |  [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree) | [binary_tree/basic/101.py](binary_tree/basic/101.py) 
+| Question 111 |  [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [binary_tree/basic/111.py](binary_tree/basic/111.py) 
+| Question 104 |  [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [binary_tree/basic/104.py](binary_tree/basic/104.py) 
 ## hash
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
@@ -69,6 +78,7 @@
 | ---- | ---- | ---- |
 | **Question 239** |  [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum) | [stack_queue/hard/239*.py](stack_queue/hard/239*.py) 
 | Question 150 |  [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | [stack_queue/hard/150.py](stack_queue/hard/150.py) 
+| Question 347 |  [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements) | [stack_queue/hard/347.py](stack_queue/hard/347.py) 
 ## strings
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
