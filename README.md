@@ -32,11 +32,20 @@
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
+| Question 404 |  [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves) | [binary_tree/basic/404.py](binary_tree/basic/404.py) 
 | Question 589 |  [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [binary_tree/basic/589.py](binary_tree/basic/589.py) 
+| Question 112 |  [Path Sum](https://leetcode-cn.com/problems/path-sum) | [binary_tree/basic/112.py](binary_tree/basic/112.py) 
 | Question 226 |  [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree) | [binary_tree/basic/226.py](binary_tree/basic/226.py) 
+| Question 257 |  [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths) | [binary_tree/basic/257.py](binary_tree/basic/257.py) 
 | Question 101 |  [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree) | [binary_tree/basic/101.py](binary_tree/basic/101.py) 
 | Question 111 |  [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [binary_tree/basic/111.py](binary_tree/basic/111.py) 
+| Question 110 |  [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree) | [binary_tree/basic/110.py](binary_tree/basic/110.py) 
 | Question 104 |  [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [binary_tree/basic/104.py](binary_tree/basic/104.py) 
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 106 |  [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [binary_tree/hard/106.py](binary_tree/hard/106.py) 
+| Question 645 |  [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch) | [binary_tree/hard/645.py](binary_tree/hard/645.py) 
 ## hash
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
