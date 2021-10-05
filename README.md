@@ -28,12 +28,21 @@
 | **Question 76** |  [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring) | [array/slide_window/76*.py](array/slide_window/76*.py) 
 | **Question 904** |  [Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets) | [array/slide_window/904*.py](array/slide_window/904*.py) 
 | **Question 209** |  [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | [array/slide_window/209*.py](array/slide_window/209*.py) 
+## backtrack
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 131 |  [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning) | [backtrack/hard/131.py](backtrack/hard/131.py) 
+| Question 216 |  [Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii) | [backtrack/hard/216.py](backtrack/hard/216.py) 
+| **Question 40** |  [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii) | [backtrack/hard/40*.py](backtrack/hard/40*.py) 
+| Question 77 |  [Combinations](https://leetcode-cn.com/problems/combinations) | [backtrack/hard/77.py](backtrack/hard/77.py) 
 ## binary_tree
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | Question 404 |  [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves) | [binary_tree/basic/404.py](binary_tree/basic/404.py) 
 | Question 530 |  [Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | [binary_tree/basic/530.py](binary_tree/basic/530.py) 
+| Question 108 |  [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) | [binary_tree/basic/108.py](binary_tree/basic/108.py) 
 | Question 617 |  [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees) | [binary_tree/basic/617.py](binary_tree/basic/617.py) 
 | Question 589 |  [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [binary_tree/basic/589.py](binary_tree/basic/589.py) 
 | Question 112 |  [Path Sum](https://leetcode-cn.com/problems/path-sum) | [binary_tree/basic/112.py](binary_tree/basic/112.py) 
@@ -48,9 +57,13 @@
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | Question 501 |  [Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | [binary_tree/hard/501.py](binary_tree/hard/501.py) 
+| Question 450 |  [Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst) | [binary_tree/hard/450.py](binary_tree/hard/450.py) 
+| Question 669 |  [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree) | [binary_tree/hard/669.py](binary_tree/hard/669.py) 
 | Question 106 |  [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [binary_tree/hard/106.py](binary_tree/hard/106.py) 
 | Question 98 |  [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree) | [binary_tree/hard/98.py](binary_tree/hard/98.py) 
 | Question 236 |  [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | [binary_tree/hard/236.py](binary_tree/hard/236.py) 
+| Question 538 |  [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | [binary_tree/hard/538.py](binary_tree/hard/538.py) 
+| Question 701 |  [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [binary_tree/hard/701.py](binary_tree/hard/701.py) 
 | Question 645 |  [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch) | [binary_tree/hard/645.py](binary_tree/hard/645.py) 
 ## hash
 ### Basic
