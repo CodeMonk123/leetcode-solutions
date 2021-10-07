@@ -32,9 +32,16 @@
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
+| Question 93 |  [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses) | [backtrack/hard/93.py](backtrack/hard/93.py) 
 | Question 131 |  [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning) | [backtrack/hard/131.py](backtrack/hard/131.py) 
+| **Question 491** |  [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences) | [backtrack/hard/491*.py](backtrack/hard/491*.py) 
 | Question 216 |  [Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii) | [backtrack/hard/216.py](backtrack/hard/216.py) 
+| Question 78 |  [Subsets](https://leetcode-cn.com/problems/subsets) | [backtrack/hard/78.py](backtrack/hard/78.py) 
+| Question 332 |  [Reconstruct Itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary) | [backtrack/hard/332.py](backtrack/hard/332.py) 
 | **Question 40** |  [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii) | [backtrack/hard/40*.py](backtrack/hard/40*.py) 
+| Question 46 |  [Permutations](https://leetcode-cn.com/problems/permutations) | [backtrack/hard/46.py](backtrack/hard/46.py) 
+| Question 90 |  [Subsets II](https://leetcode-cn.com/problems/subsets-ii) | [backtrack/hard/90.py](backtrack/hard/90.py) 
+| Question 47 |  [Permutations II](https://leetcode-cn.com/problems/permutations-ii) | [backtrack/hard/47.py](backtrack/hard/47.py) 
 | Question 77 |  [Combinations](https://leetcode-cn.com/problems/combinations) | [backtrack/hard/77.py](backtrack/hard/77.py) 
 ## binary_tree
 ### Basic
