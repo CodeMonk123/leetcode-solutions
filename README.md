@@ -35,12 +35,14 @@
 | Question 93 |  [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses) | [backtrack/hard/93.py](backtrack/hard/93.py) 
 | Question 131 |  [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning) | [backtrack/hard/131.py](backtrack/hard/131.py) 
 | **Question 491** |  [Increasing Subsequences](https://leetcode-cn.com/problems/increasing-subsequences) | [backtrack/hard/491*.py](backtrack/hard/491*.py) 
+| **Question 37** |  [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [backtrack/hard/37*.py](backtrack/hard/37*.py) 
 | Question 216 |  [Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii) | [backtrack/hard/216.py](backtrack/hard/216.py) 
 | Question 78 |  [Subsets](https://leetcode-cn.com/problems/subsets) | [backtrack/hard/78.py](backtrack/hard/78.py) 
 | Question 332 |  [Reconstruct Itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary) | [backtrack/hard/332.py](backtrack/hard/332.py) 
 | **Question 40** |  [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii) | [backtrack/hard/40*.py](backtrack/hard/40*.py) 
 | Question 46 |  [Permutations](https://leetcode-cn.com/problems/permutations) | [backtrack/hard/46.py](backtrack/hard/46.py) 
 | Question 90 |  [Subsets II](https://leetcode-cn.com/problems/subsets-ii) | [backtrack/hard/90.py](backtrack/hard/90.py) 
+| **Question 51** |  [N-Queens](https://leetcode-cn.com/problems/n-queens) | [backtrack/hard/51*.py](backtrack/hard/51*.py) 
 | Question 47 |  [Permutations II](https://leetcode-cn.com/problems/permutations-ii) | [backtrack/hard/47.py](backtrack/hard/47.py) 
 | Question 77 |  [Combinations](https://leetcode-cn.com/problems/combinations) | [backtrack/hard/77.py](backtrack/hard/77.py) 
 ## binary_tree
@@ -72,6 +74,19 @@
 | Question 538 |  [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | [binary_tree/hard/538.py](binary_tree/hard/538.py) 
 | Question 701 |  [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [binary_tree/hard/701.py](binary_tree/hard/701.py) 
 | Question 645 |  [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch) | [binary_tree/hard/645.py](binary_tree/hard/645.py) 
+## greedy
+### Basic
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 455 |  [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies) | [greedy/basic/455.py](greedy/basic/455.py) 
+| Question 53 |  [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray) | [greedy/basic/53.py](greedy/basic/53.py) 
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| **Question 376** |  [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence) | [greedy/hard/376*.py](greedy/hard/376*.py) 
+| Question 55 |  [Jump Game](https://leetcode-cn.com/problems/jump-game) | [greedy/hard/55.py](greedy/hard/55.py) 
+| **Question 122** |  [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [greedy/hard/122*.py](greedy/hard/122*.py) 
+| **Question 45** |  [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii) | [greedy/hard/45*.py](greedy/hard/45*.py) 
 ## hash
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
