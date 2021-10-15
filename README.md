@@ -74,17 +74,32 @@
 | Question 538 |  [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | [binary_tree/hard/538.py](binary_tree/hard/538.py) 
 | Question 701 |  [Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [binary_tree/hard/701.py](binary_tree/hard/701.py) 
 | Question 645 |  [Set Mismatch](https://leetcode-cn.com/problems/set-mismatch) | [binary_tree/hard/645.py](binary_tree/hard/645.py) 
+## dp
+### Basic
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 70 |  [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs) | [dp/basic/70.py](dp/basic/70.py) 
+| Question 746 |  [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | [dp/basic/746.py](dp/basic/746.py) 
+| Question 509 |  [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number) | [dp/basic/509.py](dp/basic/509.py) 
+### Hard
+| Questoin ID | LeetCode Address | Solution |
+| ---- | ---- | ---- |
+| Question 62 |  [Unique Paths](https://leetcode-cn.com/problems/unique-paths) | [dp/hard/62.py](dp/hard/62.py) 
+| Question 63 |  [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii) | [dp/hard/63.py](dp/hard/63.py) 
 ## greedy
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | Question 455 |  [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies) | [greedy/basic/455.py](greedy/basic/455.py) 
+| Question 1005 |  [Maximize Sum Of Array After K Negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | [greedy/basic/1005.py](greedy/basic/1005.py) 
 | Question 53 |  [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray) | [greedy/basic/53.py](greedy/basic/53.py) 
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | **Question 376** |  [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence) | [greedy/hard/376*.py](greedy/hard/376*.py) 
 | Question 55 |  [Jump Game](https://leetcode-cn.com/problems/jump-game) | [greedy/hard/55.py](greedy/hard/55.py) 
+| **Question 134** |  [Gas Station](https://leetcode-cn.com/problems/gas-station) | [greedy/hard/134*.py](greedy/hard/134*.py) 
+| **Question 135** |  [Candy](https://leetcode-cn.com/problems/candy) | [greedy/hard/135*.py](greedy/hard/135*.py) 
 | **Question 122** |  [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [greedy/hard/122*.py](greedy/hard/122*.py) 
 | **Question 45** |  [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii) | [greedy/hard/45*.py](greedy/hard/45*.py) 
 ## hash
