@@ -84,6 +84,10 @@
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
+| Question 96 |  [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees) | [dp/hard/96.py](dp/hard/96.py) 
+| **Question 416** |  [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum) | [dp/hard/416*.py](dp/hard/416*.py) 
+| **Question 1049** |  [Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii) | [dp/hard/1049*.py](dp/hard/1049*.py) 
+| Question 343 |  [Integer Break](https://leetcode-cn.com/problems/integer-break) | [dp/hard/343.py](dp/hard/343.py) 
 | Question 62 |  [Unique Paths](https://leetcode-cn.com/problems/unique-paths) | [dp/hard/62.py](dp/hard/62.py) 
 | Question 63 |  [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii) | [dp/hard/63.py](dp/hard/63.py) 
 ## greedy
@@ -99,7 +103,6 @@
 | **Question 376** |  [Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence) | [greedy/hard/376*.py](greedy/hard/376*.py) 
 | Question 55 |  [Jump Game](https://leetcode-cn.com/problems/jump-game) | [greedy/hard/55.py](greedy/hard/55.py) 
 | **Question 134** |  [Gas Station](https://leetcode-cn.com/problems/gas-station) | [greedy/hard/134*.py](greedy/hard/134*.py) 
-| **Question 135** |  [Candy](https://leetcode-cn.com/problems/candy) | [greedy/hard/135*.py](greedy/hard/135*.py) 
 | **Question 122** |  [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [greedy/hard/122*.py](greedy/hard/122*.py) 
 | **Question 45** |  [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii) | [greedy/hard/45*.py](greedy/hard/45*.py) 
 ## hash
