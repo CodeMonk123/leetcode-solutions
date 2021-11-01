@@ -82,19 +82,27 @@
 | Question 746 |  [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | [dp/basic/746.py](dp/basic/746.py) 
 | Question 121 |  [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [dp/basic/121.py](dp/basic/121.py) 
 | Question 509 |  [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number) | [dp/basic/509.py](dp/basic/509.py) 
+| Question 674 |  [Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) | [dp/basic/674.py](dp/basic/674.py) 
 ### Hard
 | Questoin ID | LeetCode Address | Solution |
 | ---- | ---- | ---- |
 | **Question 188** |  [Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [dp/hard/188*.py](dp/hard/188*.py) 
 | Question 139 |  [Word Break](https://leetcode-cn.com/problems/word-break) | [dp/hard/139.py](dp/hard/139.py) 
+| Question 583 |  [Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings) | [dp/hard/583.py](dp/hard/583.py) 
 | Question 96 |  [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees) | [dp/hard/96.py](dp/hard/96.py) 
+| **Question 72** |  [Edit Distance](https://leetcode-cn.com/problems/edit-distance) | [dp/hard/72*.py](dp/hard/72*.py) 
 | **Question 416** |  [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum) | [dp/hard/416*.py](dp/hard/416*.py) 
+| **Question 115** |  [Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences) | [dp/hard/115*.py](dp/hard/115*.py) 
+| Question 300 |  [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [dp/hard/300.py](dp/hard/300.py) 
 | Question 122 |  [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [dp/hard/122.py](dp/hard/122.py) 
+| Question 718 |  [Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) | [dp/hard/718.py](dp/hard/718.py) 
 | **Question 474** |  [Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes) | [dp/hard/474*.py](dp/hard/474*.py) 
+| Question 1143 |  [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence) | [dp/hard/1143.py](dp/hard/1143.py) 
 | Question 337 |  [House Robber III](https://leetcode-cn.com/problems/house-robber-iii) | [dp/hard/337.py](dp/hard/337.py) 
 | **Question 123** |  [Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) | [dp/hard/123*.py](dp/hard/123*.py) 
 | **Question 1049** |  [Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii) | [dp/hard/1049*.py](dp/hard/1049*.py) 
 | Question 518 |  [Coin Change 2](https://leetcode-cn.com/problems/coin-change-2) | [dp/hard/518.py](dp/hard/518.py) 
+| Question 1035 |  [Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines) | [dp/hard/1035.py](dp/hard/1035.py) 
 | Question 343 |  [Integer Break](https://leetcode-cn.com/problems/integer-break) | [dp/hard/343.py](dp/hard/343.py) 
 | Question 213 |  [House Robber II](https://leetcode-cn.com/problems/house-robber-ii) | [dp/hard/213.py](dp/hard/213.py) 
 | Question 309 |  [Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [dp/hard/309.py](dp/hard/309.py) 
@@ -104,6 +112,8 @@
 | Question 63 |  [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii) | [dp/hard/63.py](dp/hard/63.py) 
 | Question 714 |  [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [dp/hard/714.py](dp/hard/714.py) 
 | Question 198 |  [House Robber](https://leetcode-cn.com/problems/house-robber) | [dp/hard/198.py](dp/hard/198.py) 
+| Question 516 |  [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [dp/hard/516.py](dp/hard/516.py) 
+| Question 674 |  [Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) | [dp/hard/674.py](dp/hard/674.py) 
 ## greedy
 ### Basic
 | Questoin ID | LeetCode Address | Solution |
