@@ -24,6 +24,7 @@ import os
 dirs = os.listdir('.')
 dirs.remove('.vscode')
 dirs.remove('.git')
+dirs.remove('剑指-offer')
 dirs = list(filter(os.path.isdir, dirs))
 dirs = sorted(dirs)
 
