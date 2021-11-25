@@ -13,3 +13,4 @@ class Solution:
             if num in exist_nums:
                 return num
             exist_nums.add(num)
+            
